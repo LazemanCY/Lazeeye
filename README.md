@@ -1,18 +1,4 @@
 # Lazeeye
-//Suitable for GPS module with NMEA protocol, RMC & GGA frames should be enable.
-//Module with $GPRMC/$GPGGA is also recognized.
-//
-//pin config:
-//
-//  Key       A2 with 10k resistor pull-up
-//  Red LED   A0 with 10k resistor 
-//  Gre LED   A1 with 10k resistor
-//
-//  SDA   A4
-//  SCL   A5
-//  
-//
- 
 /* 
 Lazeman design this tiny GPS record module for RC plane model.
 
