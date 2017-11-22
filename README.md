@@ -1,5 +1,5 @@
 # Lazeeye
-/* 
+
 Lazeman design this tiny GPS record module for RC plane model.
 
 GPS related code is from Multiwii and "Adafruit_SSD1306" lib is used to provide OLED displaying.
@@ -12,4 +12,6 @@ Long press button will reset the record.
 OLED could be removed to reduce weight when in the air. 
 
 If OLED is plugged again, short press button can wake-up the OLED.   
-*/
+
+![](https://github.com/LazemanCY/Lazeeye/blob/master/image/module.jpg)
+![](https://github.com/LazemanCY/Lazeeye/blob/master/image/test%20fly.jpg)
