@@ -152,7 +152,11 @@ void setup(){
     }
     delay(100); 
   }
-}
+  
+  previous_millis_high = millis();
+  previous_millis_med = millis();
+  previous_millis_low = millis();
+ }
 
 void loop(){
   unsigned long currentMillis = millis();
